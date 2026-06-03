@@ -88,7 +88,7 @@ a.   KVL:
 
 
 
- <img width="412" height="205" alt="image" src="https://github.com/user-attachments/assets/173fb7e6-8092-4c93-ac42-ef0e2ee58bfb" />
+<img width="1836" height="1354" alt="WhatsApp Image 2026-06-03 at 8 00 58 AM" src="https://github.com/user-attachments/assets/f72f5f87-5f58-4e3d-b0e0-2e889d6805f8" />
 
 
 
@@ -97,7 +97,7 @@ b.  KCL:
 
 
 
-<img width="358" height="112" alt="image" src="https://github.com/user-attachments/assets/5621c7bb-09a1-4a22-957f-03161c264a79" />
+<img width="1836" height="1354" alt="WhatsApp Image 2026-06-03 at 8 00 58 AM" src="https://github.com/user-attachments/assets/5e4ab14e-e507-41c5-bdf3-8ab9438f47d0" />
 
 
 
